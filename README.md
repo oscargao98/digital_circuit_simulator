@@ -1,4 +1,4 @@
-# A Basic Digital Circuit Simulator
+# A Simple Digital Circuit Simulator
 
 Run with ```make``` and then ```./sim```. User will specify circuit file and test vector when prompted.
 
